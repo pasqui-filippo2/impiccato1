@@ -1,0 +1,14 @@
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\bin\Debug\net7.0\ok-l'hai-fatto.exe
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\bin\Debug\net7.0\ok-l'hai-fatto.deps.json
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\bin\Debug\net7.0\ok-l'hai-fatto.runtimeconfig.json
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\bin\Debug\net7.0\ok-l'hai-fatto.dll
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\bin\Debug\net7.0\ok-l'hai-fatto.pdb
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.AssemblyInfoInputs.cache
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.AssemblyInfo.cs
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.csproj.CoreCompileInputs.cache
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.dll
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\refint\ok-l'hai-fatto.dll
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.pdb
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ok-l'hai-fatto.genruntimeconfig.cache
+C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ok-l'hai-fatto\ok-l'hai-fatto\obj\Debug\net7.0\ref\ok-l'hai-fatto.dll
